@@ -9,11 +9,11 @@ This is a simple python program that will remove certain specified chars from a 
 or
 Program usage [file usage] [-C] [string]**
 
-##Examples
+## Examples
 
-**contentRMV.py ~/Downloads/info.txt -C abcdef -T **
+** contentRMV.py ~/Downloads/info.txt -C abcdef -T **
 
-**contentRMV.py ~/Downloads/info.txt a b c d e f -N**
+** contentRMV.py ~/Downloads/info.txt a b c d e f -N **
 
 ## Flags
 
