@@ -5,7 +5,15 @@ This is a simple python program that will remove certain specified chars from a 
 
 ## Usage
 
-Program usage [file path] [flags] [chars]\n\nor\n\nProgram usage [file usage] [-C] [string]
+**Program usage [file path] [flags] [chars]
+or
+Program usage [file usage] [-C] [string]**
+
+##Examples
+
+**contentRMV.py ~/Downloads/info.txt -C abcdef -T **
+
+**contentRMV.py ~/Downloads/info.txt a b c d e f -N**
 
 ## Flags
 
