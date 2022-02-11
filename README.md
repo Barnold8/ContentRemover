@@ -11,9 +11,9 @@ Program usage [file usage] [-C] [string]**
 
 ## Examples
 
-** contentRMV.py ~/Downloads/info.txt -C abcdef -T **
+**contentRMV.py ~/Downloads/info.txt -C abcdef -T**
 
-** contentRMV.py ~/Downloads/info.txt a b c d e f -N **
+**contentRMV.py ~/Downloads/info.txt a b c d e f -N**
 
 ## Flags
 
